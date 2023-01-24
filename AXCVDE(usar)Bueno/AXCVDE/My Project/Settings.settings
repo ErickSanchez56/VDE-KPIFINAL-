@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Estacion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ADMINPRV</Value>
+    </Setting>
+    <Setting Name="AXCVDE_wsAXC_wsAXCMP" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">http://192.168.1.79/AXCVDE/wsAXCMP.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
